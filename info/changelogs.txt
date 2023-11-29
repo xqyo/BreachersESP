@@ -1,16 +1,13 @@
---- VERSION PROD_v1.4 ---
-> Fixed repetitive version failed check
-> Added Breachers VR Cheat
-- end of PROD_v1.4
+--- PROD_v1.4 ---
+> Fixed version check
+> Added Breachers VR cheat
 
---- VERSION PROD_v1.3 ---
+--- PROD_v1.3 ---
 > Fixed loader issues
-> Added more errors to errorcodes.txt
+> Renewed errorcodes.txt
 > Fixed database login issues
-- end of PROD_v1.3
 
---- VERSION PROD_v1.2 ---
+--- PROD_v1.2 ---
 > Added options / settings
 > First compile
 > Sent to users for testing
-- end of PROD_v1.2
